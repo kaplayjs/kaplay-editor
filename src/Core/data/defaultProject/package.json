@@ -1,0 +1,15 @@
+{
+  "name": "default-project",
+  "version": "1.0.0",
+  "description": "Default project",
+  "type": "module",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "kaplay": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  }
+}
